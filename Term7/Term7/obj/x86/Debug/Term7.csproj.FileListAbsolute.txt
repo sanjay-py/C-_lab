@@ -1,0 +1,15 @@
+E:\AD\Term7\Term7\bin\Debug\Term7.exe
+E:\AD\Term7\Term7\bin\Debug\Term7.pdb
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.BOOK.resources
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.BOOKISSUE.resources
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.COURSE.resources
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.Form1.resources
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.Properties.Resources.resources
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.Report1.resources
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.Report2.resources
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.Report3.resources
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.STUDENT.resources
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.csproj.GenerateResource.Cache
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.exe
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.pdb
+E:\AD\Term7\Term7\obj\x86\Debug\Term7.csprojResolveAssemblyReference.cache
